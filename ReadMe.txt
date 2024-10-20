@@ -1,4 +1,4 @@
-A Smart News Summarizer is capable of summerizing the big news articles into smaller paragraphs and correctly categories them into different categories.
+A Smart News Summarizer is capable of summarizing the big news articles into smaller paragraphs and correctly categories them into different categories.
 
 * Technologies used:
 
